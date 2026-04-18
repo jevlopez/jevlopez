@@ -1,4 +1,4 @@
-# 💫 Hola, soy Jorge Vásquez
+# 💫 Hola, soy Jorge Vásquez 😃
    
 <p align="left">
   <img src="https://img.shields.io/badge/Docente-Desarrollo%20Software-blue?style=flat-square">
