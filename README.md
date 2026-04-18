@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saludo: Les saluda Jorge Vásquez, bienvenidos a mi perfil.<br>Sobre mí: Soy docente en Desarrollo Software, con doce años de <br>experiencia en el área, además de ser instructor de Cisco Networking Academy.<br>desde 2006.<br>Tecnologías: Linux, MySQL, Python, Ciberseguridad, Redes Cisco.<br>Contacto: jorge.vasquez@inti.edu.sv, jorge.ernesto.vasquez@clases.edu.sv, jevlopez@gmail.com
+Saludo: Les saluda Jorge Vásquez 😃, bienvenidos a mi perfil.<br>Sobre mí: Soy docente en Desarrollo Software, con doce años de <br>experiencia en el área, además de ser instructor de Cisco Networking Academy.<br>desde 2006.<br>Tecnologías: Linux, MySQL, Python, Ciberseguridad, Redes Cisco.<br>Contacto: jorge.vasquez@inti.edu.sv, jorge.ernesto.vasquez@clases.edu.sv, jevlopez@gmail.com
 
 
 ## 🌐 Socials:
